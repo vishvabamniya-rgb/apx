@@ -2,5 +2,6 @@ requests
 aiohttp
 pycryptodome
 python-telegram-bot
+cloudscraper
 pymongo
 dnspython
