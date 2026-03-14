@@ -1,0 +1,6 @@
+requests
+aiohttp
+pycryptodome
+python-telegram-bot
+pymongo
+dnspython
